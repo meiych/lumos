@@ -1,0 +1,109 @@
+{
+  "" : {
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumos-primary.dia",
+    "emit-module-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumos-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumos-primary-emit-module.dia",
+    "pch" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumos-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumos-primary.swiftdeps"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/lumos/ContentView.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/lumos/FocusScreen.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusScreen.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusScreen.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusScreen.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusScreen.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusScreen.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusScreen.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusScreen.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusScreen~partial.swiftmodule"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/lumos/FocusSession.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusSession.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusSession.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusSession.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusSession.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusSession.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusSession.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusSession.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/FocusSession~partial.swiftmodule"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/lumos/LumosStore.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/LumosStore.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/LumosStore.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/LumosStore.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/LumosStore.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/LumosStore.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/LumosStore.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/LumosStore.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/LumosStore~partial.swiftmodule"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/lumos/StorageService.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/StorageService.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/StorageService.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/StorageService.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/StorageService.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/StorageService.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/StorageService.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/StorageService.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/StorageService~partial.swiftmodule"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/lumos/TaskDetailScreen.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskDetailScreen.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskDetailScreen.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskDetailScreen.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskDetailScreen.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskDetailScreen.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskDetailScreen.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskDetailScreen.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskDetailScreen~partial.swiftmodule"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/lumos/TaskItem.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskItem.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskItem.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskItem.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskItem.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskItem.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskItem.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskItem.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TaskItem~partial.swiftmodule"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/lumos/TimelineScreen.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TimelineScreen.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TimelineScreen.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TimelineScreen.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TimelineScreen.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TimelineScreen.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TimelineScreen.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TimelineScreen.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/TimelineScreen~partial.swiftmodule"
+  },
+  "/Users/linmeiqi/Documents/New project/lumos0/lumos/lumosApp.swift" : {
+    "const-values" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumosApp.swiftconstvalues",
+    "dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumosApp.d",
+    "diagnostics" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumosApp.dia",
+    "index-unit-output-path" : "/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumosApp.o",
+    "llvm-bc" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumosApp.bc",
+    "object" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumosApp.o",
+    "swift-dependencies" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumosApp.swiftdeps",
+    "swiftmodule" : "/Users/linmeiqi/Documents/New project/lumos0/DerivedData/Build/Intermediates.noindex/lumos.build/Debug-iphoneos/lumos.build/Objects-normal/arm64/lumosApp~partial.swiftmodule"
+  }
+}

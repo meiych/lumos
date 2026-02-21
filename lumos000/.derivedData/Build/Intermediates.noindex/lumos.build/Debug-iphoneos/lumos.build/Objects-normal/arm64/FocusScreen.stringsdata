@@ -1,0 +1,24 @@
+{
+  "source": "/Users/linmeiqi/Documents/New project/lumos0/lumos/FocusScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "人最大的清醒，\n是知道自己在做什么，\n为什么做。",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "未命名任务",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 59
+        }
+      }
+    ]
+  },
+  "version": 1
+}

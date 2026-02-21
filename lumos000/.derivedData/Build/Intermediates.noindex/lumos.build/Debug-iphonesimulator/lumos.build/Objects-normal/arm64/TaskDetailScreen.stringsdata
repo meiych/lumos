@@ -1,0 +1,32 @@
+{
+  "source": "/Users/linmeiqi/Documents/New project/lumos0/lumos/TaskDetailScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "提前 %lld 分钟",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 196
+        }
+      }
+    ]
+  },
+  "version": 1
+}
